@@ -1,0 +1,108 @@
+# 常用标准库
+
+## 一. 库简介
+- 定义：功能更完整、可复用性更高的代码集合，通常由多个模块或包组成，能解决一类特定问题（如数据分析、网络请求 ）。
+- 范围：可以是 Python 标准库（如 `os` 、 `math` ，安装 Python 自带 ），也可以是第三方库（如 `numpy requests` ，需 `pip install` 安装 ）。
+- 作用：开箱即用解决实际需求，避免重复造轮子（比如用 `pandas` 处理表格数据 ）。
+- 示例：`numpy` 库包含众多包 / 模块，提供数组运算、数学函数等功能；`Django` 库是一套 Web 开发框架（由多个包组成 ）。
+
+## 二. 库的导入
+- 导入方式：
+    - 导入整个库：`import 库名`
+    - 导入特定模块：`from 库名 import 模块名`
+    - 导入特定函数：`from 库名.模块名 import 函数名`
+    - 导入特定类：`from 库名.模块名 import 类名`
+    - 导入所有模块：`from 库名 import *`
+- 导入位置：
+    - 标准库：Python 自带的库，无需安装
+    - 第三方库：需 `pip install` 安装
+    - 用户自定义库：自己编写的库，通常放在项目的 `lib` 目录下
+    - 系统环境变量：将库所在目录添加到系统环境变量中，这样就可以在任何位置导入库了
+
+## 三. Python标准库
+- 常用标准库：
+    - `os` ：提供与操作系统交互的功能，如文件操作、进程管理等
+    - `math` ：提供数学运算函数，如三角函数、对数函数等
+    - `random` ：提供生成随机数的函数
+    - `datetime` ：提供日期和时间处理的类型和函数
+    - `re` ：提供正则表达式匹配和操作的函数
+
+### 3.1 `math` 库
+提供数学运算函数，如三角函数、对数函数等
+#### 3.1.1 `math` 的常量
+| 常量 | 描述 |
+| --- | --- |
+| `math.pi` | 圆周率 |
+| `math.e` | 自然对数的底数 |
+| `math.inf` | 无穷大 |
+
+
+#### 3.1.2 `math` 的数值运算和表示
+| 名称 | 功能 |
+| --- | --- |
+| `math.ceil(x)` | 返回>=x的最小整数 |
+| `math.floor(x)` | 返回<=x的最大整数 |
+| `math.trunc(x)` | 返回x的整数部分 |
+| `math.fabs(x)` | 返回x的绝对值 |
+| `math.fmod(x,y)` | 返回x%y的余数 |
+| `math.factorial(x)` | 返回x的阶乘 |
+| `math.gcd(*integers)` | 返回多个整数的最大公约数 |
+| `math.lcm(*integers)` | 返回多个整数的最小公倍数 |
+| `math.isclose(a,b)` | 判断浮点数a和b是否接近|
+| `math.isinf(x)` | 判断x是否为无穷大 |
+
+
+#### 3.1.3 `math` 的幂和对数运算
+| 名称 | 功能 |
+| --- | --- |
+| `math.pow(x,y)` | 返回x的y次幂 |
+| `math.sqrt(x)` | 返回x的平方根 |
+| `math.exp(x)` | 返回e的x次幂 |
+| `math.log(x)` | 返回x的自然对数 |
+| `math.log10(x)` | 返回x的以10为底的对数 |
+| `math.log2(x)` | 返回x的以2为底的对数 |
+| `math.log1p(x)` | 返回1+x的自然对数 |
+| `math.expm1(x)` | 返回e的x次幂-1 |
+
+#### 3.1.4 `math` 的三角函数
+| 名称 | 功能 |
+| --- | --- |
+| `math.sin(x)` | 返回x的正弦值 |
+| `math.cos(x)` | 返回x的余弦值 |
+| `math.tan(x)` | 返回x的正切值 |
+| `math.asin(x)` | 返回x的反正弦值 |
+| `math.acos(x)` | 返回x的反余弦值 |
+| `math.atan(x)` | 返回x的反正切值 |
+
+
+#### 3.1.5 `math` 的双曲线函数
+| 名称 | 功能 |
+| --- | --- |
+| `math.atanh(x)` | 返回x的反双曲正切值 |
+| `math.sinh(x)` | 返回x的双曲正弦值 |
+| `math.cosh(x)` | 返回x的双曲余弦值 |
+| `math.tanh(x)` | 返回x的双曲正切值 |
+| `math.asinh(x)` | 返回x的反双曲正弦值 |
+| `math.acosh(x)` | 返回x的反双曲余弦值 |
+
+#### 3.1.6 `math` 的角度转换
+| 名称 | 功能 |
+| --- | --- |
+| `math.degrees(x)` | 将弧度转换为角度 |
+| `math.radians(x)` | 将角度转换为弧度 |
+
+### 3.2 `random` 库
+提供生成随机数的函数
+#### 3.2.1 `random` 的随机数生成
+| 名称 | 功能 |
+| --- | --- |
+| `random.randrange(start,stop,step)` | 生成一个在[start,stop)范围内的随机整数 |
+| `random.randint(a,b)` | 生成一个在[a,b]范围内的随机整数 |
+
+#### 3.2.2 `random` 的随机序列
+| 名称 | 功能 |
+| --- | --- |
+| `random.choice(seq)` | 从序列seq中随机选择一个元素 |
+| `random.shuffle(seq)` | 将序列seq中的元素随机打乱 |
+| `random.sample(population,k)` | 从序列population中随机选择k个元素 |
+
