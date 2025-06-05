@@ -1,4 +1,4 @@
-# 常用标准库
+# Python标准库
 
 ## 一. 库简介
 - 定义：功能更完整、可复用性更高的代码集合，通常由多个模块或包组成，能解决一类特定问题（如数据分析、网络请求 ）。
@@ -105,4 +105,20 @@
 | `random.choice(seq)` | 从序列seq中随机选择一个元素 |
 | `random.shuffle(seq)` | 将序列seq中的元素随机打乱 |
 | `random.sample(population,k)` | 从序列population中随机选择k个元素 |
+
+### 3.3 `statistics` 库
+提供统计函数\
+名称较长，可以在导入时使用 `import statistics as stats` 来简化使用 
+#### 3.3.1 `statistics` 的统计函数
+| 名称 | 功能 |
+| --- | --- |
+| `mean(data)` | 计算data的平均值 |
+| `median(data)` | 计算data的中位数 |
+| `mode(data)` | 计算data的众数 |
+| `stdev(data)` | 计算data的标准差 |
+| `variance(data)` | 计算data的方差 |
+| `correlation(x,y)` | 计算x和y的相关系数 |
+| `covariance(x,y)` | 计算x和y的协方差 |
+| `quantiles(data)` | 计算data的分位数 |
+
 
