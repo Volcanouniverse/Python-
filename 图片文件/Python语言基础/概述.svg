@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="no"?><?xml-stylesheet type="text/css" href="https://wps.processon.com/themes/default/wps/mind/icons/icons.css" ?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="383.20001220703125" height="291.5" style="outline: none; background: none; top: 0px; left: 0px; display: block; z-index: 1; font-size: 12px;" id="mind-svg-con"><defs></defs><g id="svgbackgroundid"><defs transform="matrix(0.512162531348633,0,0,0.29760081674323635,0,0)"></defs><rect width="748.2000122070312" height="979.5" fill="#ffffff" transform="matrix(0.512162531348633,0,0,0.29760081674323635,0,0)"></rect></g><g id="export-watermark"><defs><pattern patternUnits="userSpaceOnUse" id="pattern_mark_0" width="300" height="300"><text x="150" y="100" fill="rgb(235,235,235)" font-size="18" transform="rotate(-45, 150, 150)" style="dominant-baseline: middle; text-anchor: middle;"></text></pattern></defs><rect fill="url(#pattern_mark_0)" x="0" y="0" width="383.195" height="291.5" id="rect_mark_0" pointer-events="none"></rect></g><g class="po-mind-container" transform="matrix(1,0,0,1,-189,498.5)"><g class="po-mind-line-container" style=""><g from="41031435-745f-415d-a276-3238191b2720" to="a8ba6997-a710-41f3-b93c-0f59ae24ec8d" opacity="1"><path d="M401.8 -353L413.8 -353L413.8 -447C413.8 -447 413.8 -453 419.8 -453L425.8 -453" stroke-linecap="butt" stroke-width="3" stroke="#3b1084" fill="none"></path></g><g from="41031435-745f-415d-a276-3238191b2720" to="e86d9bfe-e8aa-4ee8-a85c-055cfc70de66" opacity="1"><path d="M401.8 -353L413.8 -353L413.8 -397C413.8 -397 413.8 -403 419.8 -403L425.8 -403" stroke-linecap="butt" stroke-width="3" stroke="#3b1084" fill="none"></path></g><g from="41031435-745f-415d-a276-3238191b2720" to="7127cf3e-2577-480b-8b2e-40aa8100957d" opacity="1"><path d="M401.8 -353L413.8 -353L413.8 -353C413.8 -353 413.8 -353 413.8 -353L425.8 -353" stroke-linecap="butt" stroke-width="3" stroke="#3b1084" fill="none"></path></g><g from="41031435-745f-415d-a276-3238191b2720" to="e7ae9f98-992c-4047-b6f9-7dc51680d921" opacity="1"><path d="M401.8 -353L413.8 -353L413.8 -309C413.8 -309 413.8 -303 419.8 -303L425.8 -303" stroke-linecap="butt" stroke-width="3" stroke="#3b1084" fill="none"></path></g><g from="41031435-745f-415d-a276-3238191b2720" to="7f379eaf-5d77-4f96-b133-b2c8c4e10852" opacity="1"><path d="M401.8 -353L413.8 -353L413.8 -259C413.8 -259 413.8 -253 419.8 -253L425.8 -253" stroke-linecap="butt" stroke-width="3" stroke="#3b1084" fill="none"></path></g></g><g class="po-mind-generalize-container"></g><g class="po-mind-associative-line-container"></g><g class="po-mind-node-container"><g class="po-mind-topic" id="topic-41031435-745f-415d-a276-3238191b2720" transform="matrix(1,0,0,1,217,-380)" opacity="1"><path d="M0,0 L176.8,0 C176.8,0 176.8,0 176.8,0                           L176.8,46 C176.8,46 176.8,46 176.8,46                           L0,46 C0,46 0,46 0,46 L0,0                           C0,0 0,0 0,0 Z" class="po-mind-topic-shape-fill" transform="matrix(1,0,0,1,2.5,3.5)" fill="rgba(0, 0, 0, 0.1)" stroke-width="4" stroke="rgba(0, 0, 0, 0.1)"></path><path d="M0,0 L176.8,0 C176.8,0 176.8,0 176.8,0                           L176.8,46 C176.8,46 176.8,46 176.8,46                           L0,46 C0,46 0,46 0,46 L0,0                           C0,0 0,0 0,0 Z" class="po-mind-topic-shape-fill" transform="matrix(1,0,0,1,1.5,1.5)" fill="#ffffff" stroke-width="0"></path><path d="M0,0 L175.3,0 L175.3,44.5 L0,44.5 L0,0 Z M7,44.5 L7,51.5 L182.3,51.5 L182.3,7 L175.3,7" class="po-mind-topic-shape" transform="matrix(1,0,0,1,1.5,1.5)" fill="none" stroke-width="3" stroke="#3b1084"></path><g transform="matrix(1,0,0,1,18.5,10.5)"><g data-width="140.8" data-height="26" data-offsetx="0" transform="matrix(1,0,0,1,0,0)"><g><text text-anchor="start" align="top" anchor="start" font-size="18px" font-weight="bold" fill="rgb(59, 16, 132)" style="font-family: 思源宋体;font-size: 18px;font-weight: bold;font-style: normal;line-height: 140%;max-width: 900px;overflow-wrap: break-word;word-break: break-word;text-size-adjust: 100%;color: rgb(59, 16, 132);"><tspan x="0" y="18"><tspan dx="0">Python程序概述</tspan></tspan></text></g></g></g><g><rect width="4" height="54" x="-3" y="0" resize="1" fill="none" style="cursor: ew-resize;"></rect><rect width="4" height="54" x="185.8" y="0" resize="2" fill="none" style="cursor: ew-resize;"></rect></g></g><g class="po-mind-topic" id="topic-a8ba6997-a710-41f3-b93c-0f59ae24ec8d" transform="matrix(1,0,0,1,425.8,-475)" opacity="1"><path d="M0,0 L44.4,0 C44.4,0 44.4,0 44.4,0                           L44.4,36 C44.4,36 44.4,36 44.4,36                           L0,36 C0,36 0,36 0,36 L0,0                           C0,0 0,0 0,0 Z" class="po-mind-topic-shape-fill" transform="matrix(1,0,0,1,1.5,1.5)" fill="none"></path><path d="M0,0 L42.9,0 L42.9,34.5 L0,34.5 L0,0 Z M7,34.5 L7,41.5 L49.9,41.5 L49.9,7 L42.9,7" class="po-mind-topic-shape" transform="matrix(1,0,0,1,1.5,1.5)" fill="none" stroke-width="3" stroke="#3b1084"></path><g transform="matrix(1,0,0,1,7.5,8.5)"><g data-width="30.4" data-height="20" data-offsetx="0" transform="matrix(1,0,0,1,0,0)"><g><text text-anchor="start" align="top" anchor="start" font-size="14px" font-weight="bold" fill="rgb(59, 16, 132)" style="font-family: 思源宋体;font-size: 14px;font-weight: bold;font-style: normal;line-height: 140%;max-width: 896px;overflow-wrap: break-word;word-break: break-word;text-size-adjust: 100%;color: rgb(59, 16, 132);"><tspan x="0" y="13.999999999999996"><tspan dx="0">模块</tspan></tspan></text></g></g></g></g><g class="po-mind-topic" id="topic-e86d9bfe-e8aa-4ee8-a85c-055cfc70de66" transform="matrix(1,0,0,1,425.8,-425)" opacity="1"><path d="M0,0 L44.4,0 C44.4,0 44.4,0 44.4,0                           L44.4,36 C44.4,36 44.4,36 44.4,36                           L0,36 C0,36 0,36 0,36 L0,0                           C0,0 0,0 0,0 Z" class="po-mind-topic-shape-fill" transform="matrix(1,0,0,1,1.5,1.5)" fill="none"></path><path d="M0,0 L42.9,0 L42.9,34.5 L0,34.5 L0,0 Z M7,34.5 L7,41.5 L49.9,41.5 L49.9,7 L42.9,7" class="po-mind-topic-shape" transform="matrix(1,0,0,1,1.5,1.5)" fill="none" stroke-width="3" stroke="#3b1084"></path><g transform="matrix(1,0,0,1,7.5,8.5)"><g data-width="30.4" data-height="20" data-offsetx="0" transform="matrix(1,0,0,1,0,0)"><g><text text-anchor="start" align="top" anchor="start" font-size="14px" font-weight="bold" fill="rgb(59, 16, 132)" style="font-family: 思源宋体;font-size: 14px;font-weight: bold;font-style: normal;line-height: 140%;max-width: 896px;overflow-wrap: break-word;word-break: break-word;text-size-adjust: 100%;color: rgb(59, 16, 132);"><tspan x="0" y="13.999999999999996"><tspan dx="0">语句</tspan></tspan></text></g></g></g></g><g class="po-mind-topic" id="topic-7127cf3e-2577-480b-8b2e-40aa8100957d" transform="matrix(1,0,0,1,425.8,-375)" opacity="1"><path d="M0,0 L58.400000000000006,0 C58.400000000000006,0 58.400000000000006,0 58.400000000000006,0                           L58.400000000000006,36 C58.400000000000006,36 58.400000000000006,36 58.400000000000006,36                           L0,36 C0,36 0,36 0,36 L0,0                           C0,0 0,0 0,0 Z" class="po-mind-topic-shape-fill" transform="matrix(1,0,0,1,1.5,1.5)" fill="none"></path><path d="M0,0 L56.900000000000006,0 L56.900000000000006,34.5 L0,34.5 L0,0 Z M7,34.5 L7,41.5 L63.900000000000006,41.5 L63.900000000000006,7 L56.900000000000006,7" class="po-mind-topic-shape" transform="matrix(1,0,0,1,1.5,1.5)" fill="none" stroke-width="3" stroke="#3b1084"></path><g transform="matrix(1,0,0,1,7.5,8.5)"><g data-width="44.4" data-height="20" data-offsetx="0" transform="matrix(1,0,0,1,0,0)"><g><text text-anchor="start" align="top" anchor="start" font-size="14px" font-weight="bold" fill="rgb(59, 16, 132)" style="font-family: 思源宋体;font-size: 14px;font-weight: bold;font-style: normal;line-height: 140%;max-width: 896px;overflow-wrap: break-word;word-break: break-word;text-size-adjust: 100%;color: rgb(59, 16, 132);"><tspan x="0" y="13.999999999999996"><tspan dx="0">表达式</tspan></tspan></text></g></g></g></g><g class="po-mind-topic" id="topic-e7ae9f98-992c-4047-b6f9-7dc51680d921" transform="matrix(1,0,0,1,425.8,-325)" opacity="1"><path d="M0,0 L44.4,0 C44.4,0 44.4,0 44.4,0                           L44.4,36 C44.4,36 44.4,36 44.4,36                           L0,36 C0,36 0,36 0,36 L0,0                           C0,0 0,0 0,0 Z" class="po-mind-topic-shape-fill" transform="matrix(1,0,0,1,1.5,1.5)" fill="none"></path><path d="M0,0 L42.9,0 L42.9,34.5 L0,34.5 L0,0 Z M7,34.5 L7,41.5 L49.9,41.5 L49.9,7 L42.9,7" class="po-mind-topic-shape" transform="matrix(1,0,0,1,1.5,1.5)" fill="none" stroke-width="3" stroke="#3b1084"></path><g transform="matrix(1,0,0,1,7.5,8.5)"><g data-width="30.4" data-height="20" data-offsetx="0" transform="matrix(1,0,0,1,0,0)"><g><text text-anchor="start" align="top" anchor="start" font-size="14px" font-weight="bold" fill="rgb(59, 16, 132)" style="font-family: 思源宋体;font-size: 14px;font-weight: bold;font-style: normal;line-height: 140%;max-width: 896px;overflow-wrap: break-word;word-break: break-word;text-size-adjust: 100%;color: rgb(59, 16, 132);"><tspan x="0" y="13.999999999999996"><tspan dx="0">对象</tspan></tspan></text></g></g></g></g><g class="po-mind-topic" id="topic-7f379eaf-5d77-4f96-b133-b2c8c4e10852" transform="matrix(1,0,0,1,425.8,-275)" opacity="1"><path d="M0,0 L114.4,0 C114.4,0 114.4,0 114.4,0                           L114.4,36 C114.4,36 114.4,36 114.4,36                           L0,36 C0,36 0,36 0,36 L0,0                           C0,0 0,0 0,0 Z" class="po-mind-topic-shape-fill" transform="matrix(1,0,0,1,1.5,1.5)" fill="none"></path><path d="M0,0 L112.9,0 L112.9,34.5 L0,34.5 L0,0 Z M7,34.5 L7,41.5 L119.9,41.5 L119.9,7 L112.9,7" class="po-mind-topic-shape" transform="matrix(1,0,0,1,1.5,1.5)" fill="none" stroke-width="3" stroke="#3b1084"></path><g transform="matrix(1,0,0,1,7.5,8.5)"><g data-width="100.4" data-height="20" data-offsetx="0" transform="matrix(1,0,0,1,0,0)"><g><text text-anchor="start" align="top" anchor="start" font-size="14px" font-weight="bold" fill="rgb(59, 16, 132)" style="font-family: 思源宋体;font-size: 14px;font-weight: bold;font-style: normal;line-height: 140%;max-width: 896px;overflow-wrap: break-word;word-break: break-word;text-size-adjust: 100%;color: rgb(59, 16, 132);"><tspan x="0" y="13.999999999999996"><tspan dx="0">补充—编码声明</tspan></tspan></text></g></g></g></g></g><g class="po-mind-associative-line-label-container"></g></g><g id="wpsexport-watermark"><defs><pattern patternUnits="userSpaceOnUse" id="wpspattern_mark_0" width="300" height="300"><text x="150" y="100" fill="#0000004d" font-size="18" transform="rotate(-45, 150, 150)" style="dominant-baseline: middle; text-anchor: middle;"></text></pattern></defs><rect fill="url(#wpspattern_mark_0)" x="0" y="0" width="383.195" height="291.5" id="rect_mark_0" pointer-events="none"></rect></g><style>
+    .connection-svg{
+        outline: none;
+        box-shadow: none;
+        -webkit-tap-highlight-color: transparent;
+    }
+    .connection-line {
+        cursor: pointer;
+    }
+
+    .connection-line-bg {
+        cursor: pointer;
+    }
+
+    .node-add-btn {
+        cursor: pointer;
+    }
+
+    .po-richtext-node-wrap ol,
+    .area_box ol,
+    .po-measureCustomNode ol {
+        padding-left: 20px;
+        margin: 0;
+    }
+    .po-richtext-node-wrap ol li,
+    .area_box ol li,
+    .po-measureCustomNode ol li {
+        list-style: decimal;
+    }
+    .po-richtext-node-wrap ul,
+    .area_box ul,
+    .po-measureCustomNode ul {
+        padding-left: calc(15px + 0.5em);
+        list-style: none;
+        margin: 0;
+    }
+    .po-richtext-node-wrap ul li,
+    .area_box ul li,
+    .po-measureCustomNode ul li {
+        list-style: disc;
+    }
+    .po-richtext-node-wrap p,
+    .po-richtext-node-wrap h1,
+    .po-richtext-node-wrap h2,
+    .po-richtext-node-wrap h3,
+    .po-richtext-node-wrap h4,
+    .po-richtext-node-wrap h5,
+    .po-richtext-node-wrap h6,
+    .area_box p,
+    .area_box h1,
+    .area_box h2,
+    .area_box h3,
+    .area_box h4,
+    .area_box h5,
+    .area_box h6,
+    .po-measureCustomNode p,
+    .po-measureCustomNode h1,
+    .po-measureCustomNode h2,
+    .po-measureCustomNode h3,
+    .po-measureCustomNode h4,
+    .po-measureCustomNode h5,
+    .po-measureCustomNode h6 {
+        margin: 0;
+    }
+    .po-safari-fixed {
+        position: fixed;
+    }
+</style></svg>
